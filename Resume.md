@@ -3,7 +3,9 @@
 - 本科学历，九江学院计算机与科学技术专业，2010年毕业，通过CET-4
 - 手机号码：18916602418
 - Email: <feron.wu@gmail.com>
-- 求知意向：服务端开发
+- 个人博客：www.wufeilong.info
+- GitHub: https://github.com/Mod-joker
+- 求职意向：服务端开发
 
 ## 技能清单
 
