@@ -1,22 +1,26 @@
 ## 联系方式
 - 手机号码:18916602418
 - Email:<feron.wu@gmail.com>
-- QQ/微信号:791051537
+- QQ/微信号:791051537/18916602418
 ## 个人信息
 - 武飞龙/男/1990
 - 本科/九江学院计算机与科学技术专业/2014年毕业/通过CET-4
 - 个人博客:<http://www.wufeilong.info>
 - GitHub: <https://github.com/Mod-joker>
 - 求职意向:PHP开发，服务端开发工程师
-- 期望薪资：税前月薪12~20K
+- 期望薪资：税前月薪20k
 ## 技能清单
 1. 熟悉简单的前端开发，会基本的JavaScript、HTML、CSS，了解 Vue.js、React
-2. 熟悉 C、PHP 语言，了解 Java、Python和nodejs
+2. 熟悉 C、PHP 语言，了解 Java、Python、Golang
 3. 熟悉 Git 和 Vim 的简单使用
-4. 熟悉Yii2、CodeIgniter等PHP框架，了解Composer、PSR
+4. 熟悉Yii2、CodeIgniter、laravel、TP等PHP框架，了解Composer、PSR
 5. 熟悉Linux下apache、nginx作为web服务器的常用配置，能使用简单linux命令在linux环境下工作
 6. 曾在支付行业工作，对支付业务流程和接口对接较为熟悉
-7. 正在学习Laravel和Swoole，并有较高热情
+7. 熟悉REST，并有RESTful web api的实际开发经验
+9. 正在学习Golang，对Golang有浓厚兴趣和热情
+10. 熟悉Redis等NoSQL技术
+11. 熟悉sphinx全文搜索，了解ElasticSearch
+12. 熟悉AMQP，并有RabbitMQ的实际开发经验
 ## 工作及项目经历
 ### 上海乾汇信息科技有限公司（2015年11月 ~ 2017年5月）
 #### 基于PHP的开源电商系统Magento、Zencart、Opencart支付插件开发   
@@ -29,6 +33,9 @@
 负责回答用户查询有关计算机软件或硬件操作的问题   
 负责解决常见计算机软硬件问题    
 赋予工作人员，用户和管理，建立新系统或修改的要求
+### 上海中晨电子商务股份有限公司（2017年6月~至今）
+- #### 塑料圈后台的web api开发
+负责开发公司塑料圈app的web api，
 ### 个人实践
 #### 简单的CMS系统   
 负责代码编写数据库设计，完成了一个简单的CMS系统。系统功能为游客或注册用户浏览网站内容，作者后台管理内容、管理员后台管理用户的一个CMS系统。
