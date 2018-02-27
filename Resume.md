@@ -1,13 +1,13 @@
 # <center>个人简历</center>
 ## 联系方式
 - 手机号码: 18916602418
-- Email: **`feron.wu@gmail.com`**
+- Email: <feron.wu@gmail.com>
 - QQ/微信号: 791051537/18916602418
 ## 个人信息
 - 武飞龙/男/1990
 - 本科/九江学院计算机与科学技术专业/2014年毕业/通过CET-4
-- 个人博客: **`http://www.wufeilong.info`**
-- GitHub: **`https://github.com/Mod-joker`**
+- 个人博客: <http://www.wufeilong.info>
+- GitHub: <https://github.com/Mod-joker>
 - 求职意向: `PHP` 开发，服务端开发工程师
 - 期望薪资：税前月薪 20K
 ## 技能清单
